@@ -1,6 +1,6 @@
 /// bst.cpp
-/// Medina, Fred
-/// fmedina8
+/// MF
+/// FM8
 #include"bst.h"
 #include<iostream>
 #include<vector>
